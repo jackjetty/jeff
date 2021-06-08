@@ -1,0 +1,706 @@
+[10:48.54.104]  
+[10:48.54.104]  BEGIN AdaptToGlobalDPI
+[10:48.54.104]      AdaptToGlobalDPI: DPI=96
+[10:48.54.104]      BEGIN Loading flat icons (size=64)
+[10:48.54.104]          Uncompressing resource...
+[10:48.54.108]          Opening uncompressed resource
+[10:48.54.108]          Extracting icons to ImageList Im64
+[10:48.54.108]      END Loading flat icons (size=64)
+[10:48.54.108]      BEGIN Loading flat icons (size=16)
+[10:48.54.108]          Uncompressing resource...
+[10:48.54.115]          Opening uncompressed resource
+[10:48.54.116]          Extracting icons to ImageList Im16
+[10:48.54.177]      END Loading flat icons (size=16)
+[10:48.54.177]      BEGIN Loading flat icons (size=22)
+[10:48.54.177]          Uncompressing resource...
+[10:48.54.189]          Opening uncompressed resource
+[10:48.54.189]          Extracting icons to ImageList Im22
+[10:48.54.251]      END Loading flat icons (size=22)
+[10:48.54.251]  END AdaptToGlobalDPI
+[10:48.54.251]  
+[10:48.54.252]  BEGIN AddMobaConsoleFont
+[10:48.54.252]  END AddMobaConsoleFont
+[10:48.54.252]  
+[10:48.54.253]  - MobaXterm version: 11.1 Build 3860
+[10:48.54.253]  - Command line: "D:\software\MobXterm_chs\MobaXterm_CHS.exe"
+[10:48.54.253]  - Date: 2020-11-03
+[10:48.54.253]  - Win32 version: 10.0.2.18363.
+[10:48.54.253]  - Windows architecture: 64-bits
+[10:48.54.253]  - Detected DPI: 96
+[10:48.54.253]  - Current DPI: 96
+[10:48.54.253]  - CurDir: D:\software\MOBXTE~1\
+[10:48.54.253]  - PersonalDir: C:\Users\DELL\DOCUME~1\
+[10:48.54.253]  - AppDataDir: C:\Users\DELL\AppData\Roaming\
+[10:48.54.253]  - LocalAppDataDir: C:\Users\DELL\AppData\Local\
+[10:48.54.253]  - DesktopDir: C:\Users\DELL\Desktop\
+[10:48.54.253]  - MobaProfileDir: C:\Users\DELL\DOCUME~1\
+[10:48.54.253]  - Free space in MobaProfileDir folder: 14797MB
+[10:48.54.253]  - TempDir: C:\Users\DELL\AppData\Local\Temp\
+[10:48.54.253]  - Free space in TempDir folder: 14797MB
+[10:48.54.253]  - Monitor #0: 1600x900
+[10:48.54.253]  - Monitor #1: 1280x720
+[10:48.54.253]  - User name: dell
+[10:48.54.253]  - Computer name: DESKTOP-3DR709G
+[10:48.54.253]  - Uptime: 0 days, 02:04:34
+[10:48.54.253]  - Windows PATH: C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_162\bin;D:\Program Files\TortoiseGit\bin;D:\apache-maven-3.6.1\bin;D:\Program Files\nodejs\;D:\nodejs\node_global;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin;;C:\Users\DELL\AppData\Roaming\npm
+[10:48.54.253]  - WSL not found
+[10:48.54.253]  
+[10:48.54.253]  BEGIN Form1.FormCreate
+[10:48.54.253]      Detecting installed/portable version
+[10:48.54.253]      --> portable version
+[10:48.54.253]      
+[10:48.54.254]      Detecting IniSettings
+[10:48.54.254]      MobaXterm will take its configuration from file "D:\software\MOBXTE~1\MobaXterm.ini".
+[10:48.54.254]      (selected ini file seems to be writeable)
+[10:48.54.254]      --> IniSettings= D:\software\MOBXTE~1\MobaXterm.ini
+[10:48.54.254]      
+[10:48.54.260]      Detecting CygUtils
+[10:48.54.260]      --> CygUtils NOT PRESENT
+[10:48.54.260]      --> Using CygPackage
+[10:48.54.260]      
+[10:48.54.260]      Detecting MobaXVTDir
+[10:48.54.260]      BEGIN IsFolderRW(C:\Users\DELL\AppData\Local\Temp\Mxt111)
+[10:48.54.270]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\cygdrive);
+[10:48.54.284]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\mnt);
+[10:48.54.286]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\media);
+[10:48.54.288]          CreateSymbolicLink(/proc/registry, C:\Users\DELL\AppData\Local\Temp\Mxt111\registry);
+[10:48.54.304]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\cygdrive);
+[10:48.54.305]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\mnt);
+[10:48.54.307]          CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\drives, C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\media);
+[10:48.54.309]          CreateSymbolicLink(/proc/registry, C:\Users\DELL\AppData\Local\Temp\Mxt111\mx86_64b\registry);
+[10:48.54.314]      END IsFolderRW(C:\Users\DELL\AppData\Local\Temp\Mxt111) --> OK
+[10:48.54.314]      --> MobaXVTDir= C:\Users\DELL\AppData\Local\Temp\Mxt111
+[10:48.54.314]      
+[10:48.54.314]      Detecting BinExeDir
+[10:48.54.314]      --> BinExeDir= C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\
+[10:48.54.314]      --> SessionsDir= C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\sessions
+[10:48.54.314]      
+[10:48.54.314]      Detecting MobaXVTHomeDir
+[10:48.54.315]      --> MobaXVTHomeDir= C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\home_dell
+[10:48.54.315]      
+[10:48.54.315]      Skin detection
+[10:48.54.315]      Skin selected:
+[10:48.54.315]      Set Application Title
+[10:48.54.348]      - Cygwin1.dll not detected in running applications.
+[10:48.54.348]      
+[10:48.54.348]      Process list:  Registry, fontdrvhost.exe, fontdrvhost.exe, Memory Compression, igfxCUIService.exe, stacsv64.exe, HidMonitorSvc.exe, BtwRSupportService.exe, CdhrssPassGuardXInputService.exe, OfficeClickToRun.exe, MsMpEng.exe, dasHost.exe, C:\Program Files\DellTPad\Apoint.exe, C:\Windows\System32\sihost.exe, PresentationFontCache.exe, C:\Windows\SysWOW64\CdhrssMicrodoneNew\CdhrssPassGuardXInput.exe, C:\Windows\System32\taskhostw.exe, ApMsgFwd.exe, C:\Program Files\DellTPad\hidfind.exe, C:\Program Files\DellTPad\ApntEx.exe, C:\Windows\System32\igfxEM.exe, C:\Windows\System32\igfxHK.exe, C:\Windows\System32\igfxTray.exe, ChsIME.exe, NisSrv.exe, C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe, SearchIndexer.exe, dllhost.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Program Files\WindowsApps\Microsoft.YourPhone_1.20101.84.0_x64__8wekyb3d8bbwe\YourPhone.exe, C:\Windows\System32\SettingSyncHost.exe, C:\Windows\System32\dllhost.exe, C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe, C:\Windows\System32\RuntimeBroker.exe, GoogleCrashHandler.exe, GoogleCrashHandler64.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\System32\SecurityHealthSystray.exe, SecurityHealthService.exe, C:\Program Files\IDT\WDM\sttray64.exe, D:\Program Files\BaiduNetdisk\YunDetectService.exe, D:\Program Files\WeChat\WeChat.exe, D:\Program Files\imes\eIM.exe, C:\Users\DELL\Quanshi\Quanshi Meeting\TCSAssist.exe, D:\Program Files\WeChat\wechatweb.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe, C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe, C:\Program Files (x86)\Microsoft Office\root\Office16\ONENOTEM.EXE, C:\Windows\System32\ApplicationFrameHost.exe, C:\Program Files\WindowsApps\Microsoft.WindowsStore_12010.1001.3.0_x64__8wekyb3d8bbwe\WinStore.App.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe, C:\Windows\System32\browser_broker.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\System32\MicrosoftEdgeCP.exe, C:\Windows\System32\MicrosoftEdgeSH.exe, C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2009.4.0_x64__8wekyb3d8bbwe\Calculator.exe, SgrmBroker.exe, C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\System32\SecurityHealthHost.exe, D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin\idea64.exe, D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin\fsnotifier64.exe, D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\pty4j-native\win\x86_64\winpty-agent.exe, C:\Windows\System32\cmd.exe, D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\jbr\bin\java.exe, C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe, ChsIME.exe, D:\Program Files\WeChat\WeChatApp.exe, D:\Program Files\TortoiseGit\bin\TGitCache.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, D:\Program Files\WPS Office\11.1.0.10132\office6\wps.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Windows\ImmersiveControlPanel\SystemSettings.exe, D:\Program Files\WPS Office\11.1.0.10132\office6\wpscloudsvr.exe, WmiPrvSE.exe, D:\Program Files\WPS Office\11.1.0.10132\office6\promecefpluginhost.exe, D:\PROGRA~1\WPSOFF~1\1110~1.101\office6\wps.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20090.1002.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe, TrustedInstaller.exe, TiWorker.exe, usocoreworker.exe, C:\Windows\System32\RuntimeBroker.exe, C:\Windows\System32\smartscreen.exe, D:\software\MobXterm_chs\MobaXterm_CHS.exe
+[10:48.54.348]      
+[10:48.54.421]      
+[10:48.54.421]      BEGIN LoadExtensionsImageList
+[10:48.54.440]      END LoadExtensionsImageList
+[10:48.54.440]      
+[10:48.54.440]      BEGIN ReadCustomIcons
+[10:48.54.440]          No custom icon found.
+[10:48.54.440]      END ReadCustomIcons
+[10:48.54.440]      Generating icons list (size 16)
+[10:48.54.590]      Generating icons list (size 22)
+[10:48.54.726]      Generating icons list (size 64)
+[10:48.54.739]      Creating tray icon
+[10:48.54.739]      Loading skins
+[10:48.54.740]  END Form1.Create
+[10:48.54.740]  
+[10:48.54.740]  
+[10:48.54.740]  CREATING Form4
+[10:48.54.973]  BEGIN Form4.Create
+[10:48.54.983]      NbPingus = 4
+[10:48.54.984]      BEGIN LoadBookmarksFromIni
+[10:48.54.984]          FindOrCreateTreeFolders() (1)
+[10:48.54.989]      END LoadBookmarksFromIni
+[10:48.54.989]      BEGIN LoadMacrosFromIni
+[10:48.54.990]      END LoadMacrosFromIni
+[10:48.54.996]      Form4Create1
+[10:48.54.997]      Form4Create2
+[10:48.55.002]      BEGIN AdaptSidebarArrows
+[10:48.55.002]      END AdaptSidebarArrows
+[10:48.55.006]      Form4Create3
+[10:48.55.007]      GetMinWidth = 976
+[10:48.55.007]      GetMinHeight = 529
+[10:48.55.010]      Form4Create4
+[10:48.55.011]      IsNTFS(C:\) --> NTFS
+[10:48.55.011]      Slash drive is NTFS.
+[10:48.55.011]      Form4Create5
+[10:48.55.011]      Form4Create6
+[10:48.55.011]      Displaysidebarontheleft1Click: FormClick
+[10:48.55.014]      BEGIN AdaptSidebarArrows
+[10:48.55.014]      END AdaptSidebarArrows
+[10:48.55.014]      Form4Create7
+[10:48.55.014]      Form4Create8
+[10:48.55.014]      Form4Create9
+[10:48.55.014]      ShowButtonsbar1Click: FormClick
+[10:48.55.014]      Form4Create10
+[10:48.55.014]      Form4Create12
+[10:48.55.014]      SmallButtons1Click: FormClick
+[10:48.55.017]      GetMinWidth = 976
+[10:48.55.017]      GetMinHeight = 525
+[10:48.55.017]      Form4Create13
+[10:48.55.017]      Form4Create14
+[10:48.55.017]  END Form4.Create
+[10:48.55.017]  
+[10:48.55.017]  
+[10:48.55.017]  CREATING FormParams
+[10:48.55.373]  BEGIN TFormParams.FormCreate
+[10:48.55.383]  END TFormParams.FormCreate
+[10:48.55.383]  
+[10:48.55.383]  
+[10:48.55.383]  CREATING FormSessionEdit
+
+[10:48.55.834]  BEGIN FormSessionEdit.Create
+[10:48.55.910]      BEGIN TFormSessionEdit.FindIP
+[10:48.55.924]      END TFormSessionEdit.FindIP
+[10:48.55.924]      BEGIN SetupEnumAvailableComPorts
+[10:48.55.925]          SetupEnumAvailableComPorts: SetupDiClassGuidsFromName
+[10:48.55.929]          SetupEnumAvailableComPorts: SetupDiGetClassDevs
+[10:48.55.933]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[10:48.55.933]          SetupEnumAvailableComPorts: SetupDiGetDeviceRegistryProperty
+[10:48.55.934]          SetupEnumAvailableComPorts: SetupDiGetDeviceRegistryProperty
+[10:48.55.935]          SetupEnumAvailableComPorts: SetupDiEnumDeviceInfo
+[10:48.55.935]          SetupEnumAvailableComPorts: SetupDiDestroyDeviceInfoList
+[10:48.55.936]      END SetupEnumAvailableComPorts
+[10:48.55.936]  END FormSessionEdit.Create
+[10:48.55.937]  
+[10:48.55.937]  
+[10:48.55.937]  CREATING FormTransparente
+[10:48.55.943]  
+[10:48.55.943]  
+[10:48.55.943]  CREATING FormTermConfirmClose
+[10:48.55.949]  
+[10:48.55.949]  
+[10:48.55.949]  CREATING FormManagePasswords
+[10:48.56.012]  BEGIN TFormManagePasswords.FormCreate
+[10:48.56.012]  END TFormManagePasswords.FormCreate
+[10:48.56.012]  
+[10:48.56.012]  
+[10:48.56.012]  DONE CREATING FORMS
+[10:48.56.012]  
+[10:48.56.012]  
+[10:48.56.012]  
+[10:48.56.012]  
+[10:48.56.014]  BEGIN Form1.Show
+[10:48.56.014]  END Form1.Show
+[10:48.56.038]  
+[10:48.56.038]  Launching Form1.Timer1Timer
+[10:48.56.038]  
+[10:48.56.038]  
+[10:48.56.038]  
+[10:48.56.038]  
+[10:48.56.038]  ================================================================================
+[10:48.56.038]  ~    INI file content (D:\software\MOBXTE~1\MobaXterm.ini)    ~
+[10:48.56.038]  ================================================================================
+[10:48.56.038]  
+[10:48.56.038]  
+[WindowPos_DESKTOP-3DR709G_2_1600]
+CompactMode=0
+MonitorCount=2
+Left=1592
+Top=0
+Width=1296
+Height=696
+Maximized=1
+SidebarVisible=1
+SidebarWidth=292
+
+[Display]
+SidebarRight=0
+C10Checked=1
+C11Checked=1
+C12Checked=1
+C13Checked=0
+C14Checked=0
+VisibleTabNum=1
+VisibleTabClose=1
+MenuAndButtons=2
+BtnType2=2
+
+[SSH]
+SFTPShowDotFiles=1
+SFTPAsciiMode=0
+RemoteMonitoring=1
+BrowserSortType=0
+BrowserSortReverse=0
+
+[Misc]
+SessionP=1353461313670
+LastSession=10.0.9.188|#109#0%10.0.9.188%22%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+RightClickAction=0
+RightClickAssigned=1
+
+[Credentials]
+pg=pg:bGqYcdTZ57jq0a+xBW6
+103root=root:FHdYjl5coag00NQ7Hm6DYk6myvp2ulRx+m/2jXOA4z
+pi=pi:MDhR5ZT1tx7Qeb75/RjVm0HxgE/+vuPZUQGULx1/94ut8bjPv1TJF
+
+[Recently started]
+16=10.121.200.129
+15=10.0.5.88
+14=10.0.0.188
+13=10.1.174.250
+12=10.0.0.187
+11=10.0.0.176
+10=10.0.0.133
+9=10.0.0.103 ([103root])
+8=10.0.0.102
+7=10.0.9.190
+6=10.121.10.2
+5=192.168.8.1
+4=A区树莓派
+3=B区树莓派
+2=10.0.9.187
+116.63.39.205
+1=10.0.9.188
+
+[WindowPos_DESKTOP-3DR709G_1_1600]
+CompactMode=0
+MonitorCount=1
+Left=0
+Top=0
+Width=1616
+Height=876
+Maximized=1
+SidebarVisible=1
+SidebarWidth=292
+
+[EditorWindowPos]
+Left=-8
+Top=-8
+Width=1616
+Height=876
+Maximized=1
+MonitorCount=2
+
+[Bookmarks]
+SubRep=
+ImgNum=42
+10.0.0.102=#109#0%10.0.0.102%3333%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.0.103 ([103root])=#109#0%10.0.0.103%3333%[103root]%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.0.133=#109#0%10.0.0.133%3333%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.0.176=#109#0%10.0.0.176%3333%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.9.187=#109#0%10.0.9.187%3333%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.9.188=#109#0%10.0.9.188%22%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.0.9.190=#109#0%10.0.9.190%22%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.1.174.250=#109#0%10.1.174.250%22%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.1.202.205([pg])=#109#0%10.1.203.166%22%[pg]%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.121.10.2=#109#0%10.121.10.2%9998%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+10.121.200.129=#109#0%10.121.200.129%2213%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+192.168.8.1=#109#0%192.168.8.1%22%%%-1%-1%%%22%%0%-1%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+A区树莓派=#109#0%10.0.5.12%22%[pi]%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+B区树莓派=#109#0%10.1.129.24%22%[pi]%%-1%-1%%%22%%0%0%0%%%-1%0%0%0%%1080%%0%0%1#MobaFont%10%0%0%0%15%236,236,236%0,0,0%180,180,192%0%-1%0%%xterm%-1%0%0,0,0%54,54,54%255,96,96%255,128,128%96,255,96%128,255,128%255,255,54%255,255,128%96,96,255%128,128,255%255,54,255%255,128,255%54,255,255%128,255,255%236,236,236%255,255,255%80%24%0%1%-1%<none>%%0#0# #-1
+
+[LastInstanceSessions]
+0=10.0.9.188
+
+[10:48.56.038]  
+[10:48.56.039]  
+[10:48.56.039]  ================================================================================
+[10:48.56.039]  
+[10:48.56.039]  
+[10:48.56.039]  
+[10:48.56.039]  
+[10:48.56.039]  BEGIN CreerFstab
+[10:48.56.039]      CreerFstab: RootDirectory = C:/Users/DELL/AppData/Local/Temp/Mxt111
+[10:48.56.039]      CreerFstab: HomeDirectory = C:/Users/DELL/AppData/Local/Temp/Mxt111/tmp/HOME_D~1
+[10:48.56.045]  END CreerFstab
+[10:48.56.045]  BEGIN extraireFichiers1
+[10:48.56.045]      BEGIN CreerProfile
+[10:48.56.057]      END CreerProfile
+[10:48.56.057]      BEGIN CreerSshConfig
+[10:48.56.063]      END CreerSshConfig
+[10:48.56.063]      BEGIN CreerBaseProfile
+[10:48.56.063]          NEW PLUGIN: mobase
+[10:48.56.063]          BEGIN ProcessPlugin(mobase)
+[10:48.56.063]              BEGIN GetMobaseStream
+
+[10:48.56.442]              END GetMobaseStream
+[10:48.56.443]          END ProcessPlugin(mobase)
+[10:48.56.461]      END CreerBaseProfile
+[10:48.56.462]      BEGIN MkGroupFile
+[10:48.56.462]          BEGIN GetLocalGroups
+[10:48.56.466]          END GetLocalGroups
+[10:48.56.475]          SaveStringListToUnixFile(C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\group)
+[10:48.56.481]          MkGroupFile OK
+[10:48.56.481]      END MkGroupFile
+[10:48.56.481]      BEGIN MkPasswdFile
+[10:48.56.481]          Current Domain: DESKTOP-3DR709G
+[10:48.56.481]          BEGIN Bui_GetWindowsUsersAccount
+[10:48.56.482]          END Bui_GetWindowsUsersAccount
+[10:48.56.490]          MkPasswdFile OK
+[10:48.56.491]      END MkPasswdFile
+[10:48.56.491]      BEGIN CreerNsswitch
+[10:48.56.495]      END CreerNsswitch
+[10:48.56.497]      Request for file extraction: /bin/scrdaemons
+[10:48.56.497]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\tftp);
+[10:48.56.502]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\ftp);
+[10:48.56.503]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\http);
+[10:48.56.505]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\ssh);
+[10:48.56.506]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\telnet);
+[10:48.56.508]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\nfs);
+[10:48.56.509]      CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\scrdaemons, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\init.d\vnc);
+[10:48.56.512]      Request for file extraction: /bin/cygtermd.exe
+[10:48.56.513]      Request for file extraction: /bin/cygz.dll
+[10:48.56.513]      Request for file extraction: /bin/cyggcc_s-1.dll
+[10:48.56.514]      Request for file extraction: /bin/cygwin-console-helper.exe
+[10:48.56.515]      Request for file extraction: /bin/ssh.exe
+[10:48.56.515]      Request for file extraction: /etc/bash.bash_logout
+[10:48.56.516]      Request for file extraction: /etc/profile.d
+[10:48.56.516]      Request for file extraction: /etc/profile.d/*
+[10:48.56.516]      CreerRaccourciVersMobaXterm(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\MobaListPorts, -listports);
+[10:48.56.523]      CreerRaccourciVersMobaXterm(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\MobaPictureViewer, -picview);
+[10:48.56.530]      CreerRaccourciVersMobaXterm(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\MobaTextEditor, -edit);
+[10:48.56.536]      CreerRaccourciVersMobaXterm(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\MobaCompareFiles, -compfiles);
+[10:48.56.542]      CreerRaccourciVersMobaXterm(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\MobaCompareFolders, -compfolders);
+[10:48.56.550]      Request for file extraction: /usr/share/terminfo/78/xterm
+[10:48.56.550]      Request for file extraction: /usr/share/terminfo/63/cygwin
+[10:48.56.551]      Request for file extraction: /etc/bash_completion
+[10:48.56.551]      Request for file extraction: /usr/share/zoneinfo/posixrules
+[10:48.56.559]      File posixrules extracted successfully.
+[10:48.56.560]      Request for file extraction: /etc/inputrc
+[10:48.56.560]  END extraireFichiers1
+[10:48.56.560]  CreateSymbolicLink(/proc/registry, C:\Users\DELL\AppData\Local\Temp\Mxt111\registry);
+[10:48.56.562]  CreateSymbolicLink(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\bash.exe, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\sh);
+[10:48.56.567]  CreateSymbolicLink(C:\Windows\system32\drivers\etc\hosts, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\hosts);
+[10:48.56.572]  CreateSymbolicLink(C:\Windows\system32\drivers\etc\networks, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\networks);
+[10:48.56.578]  CreateSymbolicLink(C:\Windows\system32\drivers\etc\protocol, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\protocol);
+[10:48.56.585]  CreateSymbolicLink(C:\Windows\system32\drivers\etc\services, C:\Users\DELL\AppData\Local\Temp\Mxt111\etc\services);
+[10:48.56.592]  CreateSymbolicLink(C:\Users\DELL\Desktop\, C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\home_dell\Desktop);
+[10:48.56.597]  CreateSymbolicLink(C:\Users\DELL\DOCUME~1\, C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\home_dell\MyDocuments);
+[10:48.56.602]  CreateSymbolicLink(D:\software\MOBXTE~1\, C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\home_dell\LauncherFolder);
+[10:48.56.615]  BEGIN LoadSharedSessions
+[10:48.56.615]      BEGIN TFormManagePasswords.sRadioButton4Click
+[10:48.56.615]      END TFormManagePasswords.sRadioButton4Click
+[10:48.56.615]  END LoadSharedSessions
+[10:48.56.615]  BEGIN LoadSharedSessions
+[10:48.56.615]  END LoadSharedSessions
+[10:48.56.617]  BEGIN RecreateBookmarksMenus
+[10:48.56.618]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Form1.Xserver3)
+[10:48.56.618]      RecreateBookmarksMenus: FreeBookmarksMenuItems(Bookmarks1)
+[10:48.56.618]      sTreeView1.assign(Treesessions)
+[10:48.56.618]      Detecting SheetSessions width
+[10:48.56.621]      Create session menu items
+[10:48.56.622]      Create aliases
+[10:48.56.633]      TreeSessions.Expand
+[10:48.56.633]  END RecreateBookmarksMenus
+[10:48.56.635]  BEGIN WaitForAllThreads
+[10:48.56.635]  END WaitForAllThreads
+[10:48.56.637]  
+[10:48.56.637]  BEGIN Form4.FormActivate
+[10:48.56.637]      Form4.FormActivate0: First time window activation
+[10:48.56.660]      Form4.FormActivate1
+[10:48.56.674]      Form4.FormActivate2
+[10:48.56.693]      Form4.FormActivate3
+[10:48.56.710]      Form4.FormActivate4
+[10:48.56.710]      Form4.FormActivate5
+[10:48.56.710]      Registering global show/hide hotkey
+[10:48.56.710]      Registering global show/hide popup terminal
+[10:48.56.710]      BEGIN LoadParamsFromIni: D:\software\MOBXTE~1\MobaXterm.ini
+[10:48.56.710]          LoadParamsFromIni: ComboFontName.Font.Name:=MobaFont
+[10:48.56.710]          LoadParamsFromIni: ComboFontName.ItemIndex:=21
+[10:48.56.711]          LoadParamsFromIni: ComboFontName.Font.Charset:=0
+[10:48.56.711]          LoadParamsFromIni1
+[10:48.56.711]          LoadParamsFromIni2
+[10:48.56.714]          LoadParamsFromIni9
+[10:48.56.714]          LoadParamsFromIni10
+[10:48.56.717]          LoadParamsFromIni11
+[10:48.56.717]          LoadParamsFromIni12
+[10:48.56.717]          LoadParamsFromIni13
+[10:48.56.717]          LoadParamsFromIni14
+[10:48.56.746]          LoadParamsFromIni15
+[10:48.56.746]          LoadParamsFromIni16
+[10:48.56.746]      END LoadParamsFromIni
+[10:48.56.746]      Form4.FormActivate: OldMaximized:=Form4.WindowState
+[10:48.56.746]      Form4.FormActivate: TermImage.Canvas.Font.Assign(MobaFont)
+[10:48.56.746]      Form4.FormActivate: TermImage.Canvas.Font.Size:=10
+[10:48.56.746]      Form4.FormActivate: TermImage.Canvas.Font.Name:=MobaFont
+[10:48.56.746]      Form4.FormActivate: Starting "GetMinHeight"
+[10:48.56.746]      GetMinHeight = 525
+[10:48.56.746]      Form4.FormActivate: Form4.Constraints.MinHeight:=525
+[10:48.56.746]      GetMinWidth = 976
+[10:48.56.746]      Form4.FormActivate: Form4.Constraints.MinWidth:=976
+[10:48.56.746]      Form4.FormActivate: Form4.Left:=1752
+[10:48.56.747]      BEGIN GetNextAvailableX
+[10:48.56.747]      END GetNextAvailableX = 0
+[10:48.56.747]      
+[10:48.56.747]      CurrentX = 0
+[10:48.56.747]      ChDir(Form1.BaseDir): D:\software\MobXterm_chs\
+[10:48.56.747]      FirstParam:
+[10:48.56.747]      Launching NewTab
+[10:48.56.747]      
+[10:48.56.747]      BEGIN NEWTAB(home, 135, 0)
+[10:48.56.768]          NEWTAB: Application.ProcessMessages
+[10:48.56.768]          NEWTAB: Timer1_Disable
+[10:48.56.783]          
+[10:48.56.783]          BEGIN Form4.FormActivate
+[10:48.56.783]          END Form4.FormActivate
+[10:48.56.783]          
+[10:48.56.799]          BEGIN TFormXterm.FormResize
+[10:48.56.799]              TFormXterm.FormResize: CenterBtnReattachTab
+[10:48.56.800]              TFormXterm.FormResize: SplitModeResize
+[10:48.56.800]              TFormXterm.FormResize: TabMax<=0. Exiting...
+[10:48.56.800]          END TFormXterm.FormResize
+[10:48.56.800]          BEGIN WMSize
+[10:48.56.800]              BEGIN TFormXterm.FormResize
+[10:48.56.800]                  TFormXterm.FormResize: CenterBtnReattachTab
+[10:48.56.800]                  TFormXterm.FormResize: SplitModeResize
+[10:48.56.800]                  TFormXterm.FormResize: TabMax<=0. Exiting...
+[10:48.56.800]              END TFormXterm.FormResize
+[10:48.56.800]          END WMSize
+[10:48.56.800]          NEWTAB: Verifying if max number of tabs has been reached...
+[10:48.56.800]          NEWTAB: Creating SFTPRecord...
+[10:48.56.801]          NEWTAB: Creating menu items and popup entries for new tab...
+[10:48.56.801]          NEWTAB: Trying to find OldIndice...
+[10:48.56.801]          NEWTAB: Cts1.BeginUpdate;
+[10:48.56.801]          NEWTAB: Creating new tab...
+[10:48.56.801]          NEWTAB:        Tab index: 0
+[10:48.56.801]          NEWTAB:        NumTerm  : 1
+[10:48.56.801]          NEWTAB:        Title    : Home
+[10:48.56.801]          NEWTAB:        Command  : home
+[10:48.56.801]          Cts1ActiveTabChanged: New index = 0
+[10:48.56.801]          NEWTAB: Cts1.EndUpdates
+[10:48.56.818]          NEWTAB: Changing tab index A = 0
+[10:48.56.818]          BEGIN WaitForAllThreads
+[10:48.56.818]          END WaitForAllThreads
+[10:48.56.818]          
+[10:48.56.818]          LaunchTabContent(home, Home);
+[10:48.56.818]          
+[10:48.56.819]          SetEnvironmentVariable(LOCALE, zh_CN.UTF-8)
+[10:48.56.819]          SetEnvironmentVariable(PATH, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin;C:\Windows\;C:\Windows\system32\)
+[10:48.56.819]          Enabling MOBANOACL
+[10:48.56.819]          
+[10:48.56.819]          ShellExecute: motty.exe
+[10:48.56.819]          
+[10:48.56.819]          CreerSessionMoTTY(1, home, Home)
+[10:48.56.820]          Setting LOCALE=zh_CN.UTF-8
+[10:48.56.828]          CreerSessionMoTTY(-1, /bin/_TCPCapture.sh, TCPCapture)
+[10:48.56.828]          Setting LOCALE=zh_CN.UTF-8
+[10:48.56.929]          
+[10:48.56.929]          FindWindow()
+[10:48.56.929]          Moxt2.SetParent
+[10:48.57.024]          NEWTAB: Application.OnMessage:=AppMessage
+[10:48.57.026]          NEWTAB: Changing tab index C = 0
+[10:48.57.026]          NEWTAB: Launching DisplayCurrentTab...
+[10:48.57.026]          BEGIN DisplayCurrentTab
+[10:48.57.026]              DisplayCurrentTab: FormClick
+[10:48.57.026]              (SSH-Browser) DisplayCurrentTab(0): ActiverPanel14
+[10:48.57.026]              (SSH-Browser) BEGIN ActiverPanel14
+[10:48.57.026]              (SSH-Browser) BEGIN DesactiverPanel14
+[10:48.57.026]              (SSH-Browser) END DesactiverPanel14
+[10:48.57.026]              (SSH-Browser) END ActiverPanel14;
+[10:48.57.057]              DisplayCurrentTab: Cts1.BeginUpdate;
+[10:48.57.057]              DisplayCurrentTab: Cts1.EndUpdates
+[10:48.57.057]              DisplayCurrentTab: Show selected tab
+[10:48.57.059]              BEGIN ResizeTerminal
+[10:48.57.059]              END ResizeTerminal
+[10:48.57.059]              DisplayCurrentTab: Hide other tabs
+[10:48.57.059]              DisplayCurrentTab: Adapting buttons enable/disable states
+[10:48.57.059]              DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[10:48.57.060]              DisplayCurrentTab: DistribuerLeFocus
+[10:48.57.061]              BEGIN WMNewTab: 0
+[10:48.57.061]                  WMNewTab: FormClick
+[10:48.57.061]                  WMNewTab: LooseFocus
+[10:48.57.061]              END WMNewTab: 0
+[10:48.57.062]              BEGIN WMNewTab: 0
+[10:48.57.062]                  WMNewTab: FormClick
+[10:48.57.062]                  WMNewTab: LooseFocus
+[10:48.57.062]              END WMNewTab: 0
+[10:48.57.062]              BEGIN WMNewTab: 0
+[10:48.57.062]                  WMNewTab: FormClick
+[10:48.57.062]                  WMNewTab: LooseFocus
+[10:48.57.062]              END WMNewTab: 0
+[10:48.57.062]              BEGIN WMNewTab: 0
+[10:48.57.062]                  WMNewTab: FormClick
+[10:48.57.062]                  WMNewTab: LooseFocus
+[10:48.57.062]              END WMNewTab: 0
+[10:48.57.067]          END DisplayCurrentTab
+[10:48.57.067]          NEWTAB: NewTab_ReEnable_Timer1
+[10:48.57.067]          NEWTAB: MajVerticalTabs
+[10:48.57.067]          NEWTAB: Cts1.Resize;
+[10:48.57.072]      END NEWTAB(home, 135, 0)
+[10:48.57.072]      
+[10:48.57.072]      
+[10:48.57.072]      Launching bookmarks();
+[10:48.57.072]      Launching sBitBtn7Click(sBitBtn7);
+[10:48.57.072]      
+[10:48.57.072]      BEGIN LaunchX11();
+[10:48.57.072]          BEGIN MobaThreadXressources.Execute(nil);
+[10:48.57.072]          END MobaThreadXressources.Execute(nil);
+
+
+[10:48.58.914]          BEGIN ExecuteSessionTree
+[10:48.58.914]              ExecuteSessionTree: FormClick
+[10:48.58.921]              BEGIN ExecuteSelectedSession
+[10:48.58.921]                  ExecuteSelectedSession: FormClick
+[10:48.58.921]                  ExecuteSelectedSession0
+[10:48.58.921]                  ExecuteSelectedSession1
+[10:48.58.921]                  ExecuteSelectedSession2
+[10:48.58.922]                  ExecuteSelectedSession3
+[10:48.58.922]                  BEGIN ChargerLaSession
+
+[10:48.59.487]                      ChargerLaSession1
+[10:48.59.719]                      ChargerLaSession2
+[10:48.59.719]                      ChargerLaSession3
+[10:48.59.719]                      ChargerLaSession4
+[10:48.59.720]                      ChargerLaSession5
+[10:48.59.720]                      ChargerLaSession6
+[10:48.59.741]                      ChargerLaSession7
+[10:48.59.852]                      ChargerLaSession8
+[10:48.59.852]                      ChargerLaSession8_ssh_1
+[10:48.59.943]                      ChargerLaSession8_ssh_2
+[10:49.00.043]                      ChargerLaSession8_ssh_3
+[10:49.00.068]                      ChargerLaSession8_ssh_4
+[10:49.00.068]                      ChargerLaSession9
+[10:49.00.126]                      ChargerLaSession10
+[10:49.00.126]                  END ChargerLaSession
+[10:49.00.127]                  ExecuteSelectedSession4
+[10:49.00.127]                  LaunchSession0
+[10:49.00.252]                  LaunchSession1
+[10:49.00.252]                  LaunchSession4
+[10:49.00.266]                  LaunchSession5
+[10:49.00.266]                  
+[10:49.00.266]                  BEGIN NEWTAB(ssh "10.1.203.166" -l "pg" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 109, 0)
+[10:49.00.266]                      NEWTAB: Application.ProcessMessages
+[10:49.00.331]                      NEWTAB: Timer1_Disable
+[10:49.00.331]                      NEWTAB: Verifying if max number of tabs has been reached...
+[10:49.00.333]                      NEWTAB: Creating SFTPRecord...
+[10:49.00.334]                      NEWTAB: Creating menu items and popup entries for new tab...
+[10:49.00.334]                      NEWTAB: Trying to find OldIndice...
+[10:49.00.334]                      NEWTAB: Cts1.BeginUpdate;
+[10:49.00.334]                      NEWTAB: Creating new tab...
+[10:49.00.334]                      NEWTAB:        Tab index: 1
+[10:49.00.334]                      NEWTAB:        NumTerm  : 2
+[10:49.00.334]                      NEWTAB:        Title    : 10.1.202.205([pg])
+[10:49.00.334]                      NEWTAB:        Command  : ssh "10.1.203.166" -l "pg" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z
+[10:49.00.334]                      Cts1ActiveTabChanged: New index = 1
+[10:49.00.334]                      NEWTAB: Cts1.EndUpdates
+[10:49.00.338]                      NEWTAB: Changing tab index A = 1
+[10:49.00.338]                      BEGIN WaitForAllThreads
+
+[10:49.01.192]                          BEGIN WMNewTab: 0
+[10:49.01.192]                              WMNewTab: FormClick
+[10:49.01.192]                              WMNewTab: LooseFocus
+[10:49.01.197]                          END WMNewTab: 0
+
+
+[10:49.03.944]                          BEGIN ExecuteSessionTree
+[10:49.03.944]                              ExecuteSessionTree: FormClick
+[10:49.03.948]                              BEGIN ExecuteSelectedSession
+[10:49.03.948]                                  ExecuteSelectedSession: FormClick
+[10:49.03.948]                                  ExecuteSelectedSession0
+[10:49.03.948]                                  ExecuteSelectedSession1
+[10:49.03.948]                                  ExecuteSelectedSession2
+[10:49.03.949]                                  ExecuteSelectedSession3
+[10:49.03.949]                                  BEGIN ChargerLaSession
+[10:49.03.950]                                      ChargerLaSession1
+[10:49.03.954]                                      ChargerLaSession2
+[10:49.03.954]                                      ChargerLaSession3
+[10:49.03.954]                                      ChargerLaSession4
+[10:49.03.954]                                      ChargerLaSession5
+[10:49.03.954]                                      ChargerLaSession6
+[10:49.03.954]                                      ChargerLaSession7
+[10:49.03.955]                                      ChargerLaSession8
+[10:49.03.955]                                      ChargerLaSession8_ssh_1
+[10:49.03.955]                                      ChargerLaSession8_ssh_2
+[10:49.03.955]                                      ChargerLaSession8_ssh_3
+[10:49.03.955]                                      ChargerLaSession8_ssh_4
+[10:49.03.955]                                      ChargerLaSession9
+[10:49.03.964]                                      ChargerLaSession10
+[10:49.03.964]                                  END ChargerLaSession
+[10:49.03.964]                                  ExecuteSelectedSession4
+[10:49.03.964]                                  LaunchSession0
+[10:49.03.965]                                  LaunchSession1
+[10:49.03.965]                                  LaunchSession4
+[10:49.03.976]                                  LaunchSession5
+[10:49.03.976]                                  
+[10:49.03.976]                                  BEGIN NEWTAB(ssh "10.0.9.188" -l PleaseAskMe -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 109, 0)
+[10:49.03.976]                                      NEWTAB: Application.ProcessMessages
+[10:49.03.979]                                      NEWTAB: Timer1_Disable
+[10:49.03.979]                                      NEWTAB: Verifying if max number of tabs has been reached...
+[10:49.03.979]                                      NEWTAB: Creating SFTPRecord...
+[10:49.03.980]                                      NEWTAB: Creating menu items and popup entries for new tab...
+[10:49.03.981]                                      NEWTAB: Trying to find OldIndice...
+[10:49.03.981]                                      NEWTAB: Cts1.BeginUpdate;
+[10:49.03.981]                                      NEWTAB: Creating new tab...
+[10:49.03.981]                                      NEWTAB:        Tab index: 2
+[10:49.03.981]                                      NEWTAB:        NumTerm  : 3
+[10:49.03.981]                                      NEWTAB:        Title    : 10.0.9.188
+[10:49.03.981]                                      NEWTAB:        Command  : ssh "10.0.9.188" -l PleaseAskMe -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z
+[10:49.03.981]                                      Cts1ActiveTabChanged: New index = 2
+[10:49.03.981]                                      NEWTAB: Cts1.EndUpdates
+[10:49.03.984]                                      NEWTAB: Changing tab index A = 2
+[10:49.03.984]                                      BEGIN WaitForAllThreads
+
+[10:49.04.600]  BEGIN WMNewTab: 0
+[10:49.04.600]      WMNewTab: FormClick
+[10:49.04.600]      WMNewTab: LooseFocus
+[10:49.04.604]  END WMNewTab: 0
+
+[10:49.05.151]  END WaitForAllThreads
+[10:49.05.151]  
+[10:49.05.151]  LaunchTabContent(ssh "10.0.9.188" -l PleaseAskMe -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 10.0.9.188);
+[10:49.05.151]  
+[10:49.05.151]  SetEnvironmentVariable(LOCALE, zh_CN.UTF-8)
+[10:49.05.152]  SetEnvironmentVariable(PATH, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin;C:\Windows\;C:\Windows\system32\)
+[10:49.05.152]  Enabling MOBANOACL
+[10:49.05.152]  
+[10:49.05.152]  ShellExecute: motty.exe
+[10:49.05.152]  
+[10:49.05.152]  CreerSessionMoTTY(3, ssh "10.0.9.188" -l PleaseAskMe -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 10.0.9.188)
+[10:49.05.152]  Request for file extraction: /bin/motty.exe
+[10:49.05.413]  File motty.exe extracted successfully.
+[10:49.05.415]  SetEnvironmentVariable(LOCALE, zh_CN.UTF-8)
+[10:49.05.417]  SetEnvironmentVariable(PATH, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin;C:\Windows\;C:\Windows\system32\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_162\bin;D:\Program Files\TortoiseGit\bin;D:\apache-maven-3.6.1\bin;D:\Program Files\nodejs\;D:\nodejs\node_global;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin;C:\Users\DELL\AppData\Roaming\npm)
+[10:49.05.417]  Enabling MOBANOACL
+[10:49.05.423]  Request for file extraction: /bin/cygtermd.exe
+[10:49.05.423]  File not found:  C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\cygtermd.exe
+[10:49.05.423]  File not found:  C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\cygwin1.dll
+[10:49.05.424]  File not found:  C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\bash.exe
+[10:49.05.424]  File not found:  C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\busybox.exe
+[10:49.05.429]  BEGIN ShellExecuteS(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\motty.exe, -load "C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\sessions\TERM2642503")
+[10:49.05.632]      ShellExecuteS: ShellExecuteEx succeeded.
+[10:49.05.680]      SetTitle(2, 10.0.9.188);
+[10:49.05.685]      ShellExecuteS: WaitForInputIdle succeeded.
+[10:49.05.685]  END ShellExecuteS(C:\Users\DELL\AppData\Local\Temp\Mxt111\bin\motty.exe, -load "C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\sessions\TERM2642503")
+[10:49.05.685]  
+[10:49.05.685]  FindWindow(CMoTTY)
+[10:49.05.685]  Potential window 69146 successfully passed 2nd verification.
+[10:49.05.685]  --> succeeded
+[10:49.05.686]  Moxt2.SetParent
+[10:49.05.694]  NEWTAB: Application.OnMessage:=AppMessage
+[10:49.05.696]  NEWTAB: Changing tab index C = 2
+[10:49.05.696]  NEWTAB: Launching DisplayCurrentTab...
+[10:49.05.696]  BEGIN DisplayCurrentTab
+[10:49.05.696]      DisplayCurrentTab: FormClick
+[10:49.05.696]      (SSH-Browser) DisplayCurrentTab(2): ActiverPanel14
+[10:49.05.696]      (SSH-Browser) BEGIN ActiverPanel14
+[10:49.05.696]      (SSH-Browser) BEGIN DesactiverPanel14
+[10:49.05.696]      (SSH-Browser) END DesactiverPanel14
+[10:49.05.696]      (SSH-Browser) END ActiverPanel14;
+[10:49.05.727]      DisplayCurrentTab: Cts1.BeginUpdate;
+[10:49.05.727]      DisplayCurrentTab: Cts1.EndUpdates
+[10:49.05.727]      DisplayCurrentTab: Show selected tab
+[10:49.05.728]      DisplayCurrentTab: Hide other tabs
+[10:49.05.729]      DisplayCurrentTab: Adapting buttons enable/disable states
+[10:49.05.730]      DisplayCurrentTab: DeterminerBoutonDetachOuReattach
+[10:49.05.730]      DisplayCurrentTab: DistribuerLeFocus
+[10:49.05.730]  END DisplayCurrentTab
+[10:49.05.730]  NEWTAB: NewTab_ReEnable_Timer1
+[10:49.05.730]  NEWTAB: MajVerticalTabs
+[10:49.05.730]  NEWTAB: Cts1.Resize;
+[10:49.05.741]  END NEWTAB(ssh "10.0.9.188" -l PleaseAskMe -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 109, 0)
+[10:49.05.741]  
+[10:49.05.741]  LaunchSession6
+[10:49.05.741]  ExecuteSelectedSession5
+[10:49.05.741]  END ExecuteSelectedSession
+[10:49.05.741]  END ExecuteSessionTree
+[10:49.05.743]  END WaitForAllThreads
+[10:49.05.743]  
+[10:49.05.743]  LaunchTabContent(ssh "10.1.203.166" -l "pg" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 10.1.202.205([pg]));
+[10:49.05.743]  
+[10:49.05.743]  SetEnvironmentVariable(LOCALE, zh_CN.UTF-8)
+[10:49.05.743]  SetEnvironmentVariable(PATH, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin;C:\Windows\;C:\Windows\system32\)
+[10:49.05.743]  Enabling MOBANOACL
+[10:49.05.743]  
+[10:49.05.743]  ShellExecute: motty.exe
+[10:49.05.743]  
+[10:49.05.744]  CreerSessionMoTTY(3, ssh "10.1.203.166" -l "pg" -p 22 -Y -o ForwardX11Trusted=yes -o ForwardX11=yes  -C -o Compression=yes  -Z , 10.1.202.205([pg]))
+[10:49.05.745]  SetEnvironmentVariable(LOCALE, zh_CN.UTF-8)
+[10:49.05.746]  SetEnvironmentVariable(PATH, C:\Users\DELL\AppData\Local\Temp\Mxt111\bin;C:\Windows\;C:\Windows\system32\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_162\bin;D:\Program Files\TortoiseGit\bin;D:\apache-maven-3.6.1\bin;D:\Program Files\nodejs\;D:\nodejs\node_global;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin;C:\Users\DELL\AppData\Roaming\npm)
+[10:49.05.746]  Enabling MOBANOACL
+[10:49.05.747]  !!!! Exception EFCreateError: Cannot create file "C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\sessions\TERM2642503". 另一个程序正在使用此文件，进程无法访问。 during SaveStringListToUnixFile(C:\Users\DELL\AppData\Local\Temp\Mxt111\tmp\sessions\TERM2642503)
